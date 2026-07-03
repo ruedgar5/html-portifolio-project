@@ -1,2 +1,2 @@
-# html-portifolio-project
+# index.html
 This my first HTML portifolio. I hope you guys enjoy it
